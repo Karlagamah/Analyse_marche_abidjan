@@ -1,0 +1,56 @@
+=== RESULTATS DE L'ANALYSE ===
+
+Lagune : moins chère 0 fois, écart moyen 473.2 % par rapport au prix le plus bas
+Baobab : moins chère 1 fois, écart moyen 1.9 % par rapport au prix le plus bas
+Comptoir : moins chère 1 fois, écart moyen 0.9 % par rapport au prix le plus bas
+Les 3 produits où il y a le plus à gagner à comparer :
+P04 Tecno Spark 20 128 Go : 704000 FCFA (938.7 %)
+P12 Lenovo IdeaPad 3 Core i3 8 Go 256 Go : 22025 FCFA (7.7 %)
+Panier chez Lagune : non calculable (article indisponible)
+Panier chez Baobab : non calculable (article indisponible)
+Panier chez Comptoir : non calculable (article indisponible)
+Panier optimal : non calculable (article introuvable)
+
+--- ANALYSE DE LA COMPLEXITE DU PANIER ---
+Nombre de produits dans le panier (P) : 5
+Nombre d'enseignes (E) : 3
+Complexite temporelle : O(P x E)
+Type : lineaire si le nombre d'enseignes reste fixe.
+Explication : pour chaque enseigne, le programme parcourt les produits du panier.
+Le calcul du panier optimal effectue egalement un parcours des produits.
+Nombre de verifications enseigne-produit pour les paniers par enseigne : 15
+Memoire supplementaire : O(P) pour les informations du panier.
+Marché Lagune : moyenne annuelle 161978 FCFA, semaine Black Friday 143894 FCFA, écart -11.2 %
+   -> les prix étaient plus bas pendant le Black Friday
+Baobab Shop : moyenne annuelle 140913 FCFA, semaine Black Friday 124579 FCFA, écart -11.6 %
+   -> les prix étaient plus bas pendant le Black Friday
+Comptoir Ivoire : moyenne annuelle 154843 FCFA, semaine Black Friday 160605 FCFA, écart 3.7 %
+   -> les prix n'étaient pas plus bas pendant le Black Friday
+
+================ ANALYSE DE LA COMPLEXITE ================
+Nombre de lignes dans l'historique (N) : 20876
+Nombre de recherches effectuees (R) : 209
+
+--- METHODE 1 : RECHERCHE AVEC BOUCLES ---
+Complexite temporelle : O(R x N)
+Type : quadratique O(N^2) lorsque R est proportionnel a N.
+Explication : pour chaque recherche, le programme parcourt les N lignes.
+Temps d'execution mesure : 0.250525 seconde(s)
+
+--- METHODE 2 : RECHERCHE AVEC DICTIONNAIRE ---
+Construction du dictionnaire : O(N)
+Une recherche par cle : O(1) en moyenne
+Complexite totale : O(N + R)
+Type : lineaire O(N) en moyenne lorsque R est inferieur ou proportionnel a N.
+Explication : le dictionnaire est construit une seule fois, puis les recherches se font directement par cle.
+Temps d'execution mesure : 0.004363 seconde(s)
+
+--- COMPARAISON DES DEUX METHODES ---
+Le dictionnaire est environ 57.42 fois plus rapide.
+
+--- STRUCTURES DE DONNEES UTILISEES ---
+Listes : stockage et parcours des donnees.
+Dictionnaires : recherche par cle, O(1) en moyenne.
+DataFrame : manipulation des tableaux provenant des fichiers.
+===========================================================
+Temps total du programme : 108.17 s (pauses du mode pas a pas comprises)

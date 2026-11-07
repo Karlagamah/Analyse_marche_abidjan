@@ -1,0 +1,88 @@
+=== JOURNAL DES ANOMALIES ===
+
+Lagune : 2 doublons supprimés
+Lagune : 2 prix invalides
+Lagune : 7 articles indisponibles
+Baobab : 0 doublons supprimés
+Baobab : 1 montants invalides
+Baobab : 0 frais invalides remplacés par 0
+Baobab : 0 stocks invalides remplacés par 0
+Baobab : 4 articles indisponibles
+Comptoir : 0 lignes vides supprimées
+Comptoir : 0 prix catalogue invalides
+Comptoir : 0 remises invalides remplacées par 0
+Comptoir : 0 quantités invalides remplacées par 0
+Comptoir : 0 remises supérieures à 100 remplacées par 0
+Comptoir : 2 articles indisponibles
+Lagune : non rapproché -> SAMSUNG GALAXY A15 (128GB)
+Lagune : non rapproché -> SAMSUNG GALAXY A25 (128GB)
+Lagune : non rapproché -> SAMSUNG GALAXY A55 (256GB)
+Lagune : non rapproché -> TECNO CAMON 30 - 256GB
+Lagune : non rapproché -> INFINIX HOT 40I 128GB
+Lagune : non rapproché -> INFINIX NOTE 40 256GB
+Lagune : non rapproché -> ITEL A70 64GB
+Lagune : non rapproché -> IPHONE 13 128GB
+Lagune : non rapproché -> XIAOMI REDMI NOTE 13 128GB
+Lagune : non rapproché -> PC PORTABLE HP 250 G9 I5 8GB/512GB
+Lagune : non rapproché -> PC PORTABLE DELL INSPIRON 15 I5 16GB/512GB
+Lagune : non rapproché -> CLE USB SANDISK 64GB
+Lagune : non rapproché -> DISQUE DUR EXTERNE SEAGATE 1TB
+Lagune : non rapproché ->   souris sans fil logitech m185 
+Lagune : non rapproché -> IMPRIMANTE HP DESKJET 2720E
+Lagune : non rapproché -> ECRAN SAMSUNG 24"
+Lagune : non rapproché -> REFRIGERATEUR HISENSE 205L
+Lagune : non rapproché -> CONGELATEUR NASCO 200L
+Lagune : non rapproché -> TV SAMSUNG 43" CRYSTAL UHD 4K
+Lagune : non rapproché -> TV HISENSE 32"
+Lagune : non rapproché -> CLIMATISEUR LG 1CV
+Lagune : non rapproché -> VENTILATEUR BINATONE 16"
+Lagune : non rapproché -> MIXEUR MOULINEX 1.5L
+Lagune : non rapproché -> FER A REPASSER PHILIPS
+Lagune : non rapproché -> MICRO-ONDES SAMSUNG 23L
+Lagune : non rapproché -> CLIMATISEUR HISENSE 1.5CV
+Baobab : non rapproché -> Galaxy A15 128GB - Samsung
+Baobab : non rapproché -> Galaxy A25 128GB - Samsung
+Baobab : non rapproché -> Galaxy A55 256GB - Samsung
+Baobab : non rapproché -> Camon 30 256GB - Tecno
+Baobab : non rapproché -> Hot 40i 128GB - Infinix
+Baobab : non rapproché -> Note 40 256GB - Infinix
+Baobab : non rapproché -> iPhone 13 128GB - Apple
+Baobab : non rapproché -> Redmi Note 13 128GB - Xiaomi
+Baobab : non rapproché -> HP Laptop 250 G9 (i5, 8GB, 512GB SSD)
+Baobab : non rapproché -> SanDisk Ultra USB 64GB
+Baobab : non rapproché -> Seagate Expansion 1TB
+Baobab : non rapproché -> Logitech M185 Wireless Mouse
+Baobab : non rapproché -> HP DeskJet 2720e Printer
+Baobab : non rapproché -> TP-Link Archer C6 AC1200
+Baobab : non rapproché -> Samsung 24" Monitor
+Baobab : non rapproché -> Hisense Fridge 205L
+Baobab : non rapproché -> Samsung 43" Crystal UHD TV
+Baobab : non rapproché -> Hisense 32" TV
+Baobab : non rapproché -> LG Air Conditioner 1HP
+Baobab : non rapproché -> Moulinex Blender 1.5L
+Baobab : non rapproché -> Philips Steam Iron
+Baobab : non rapproché -> Samsung Microwave 23L
+Baobab : non rapproché -> Electric Kettle 1.7L
+Baobab : non rapproché -> Hisense Air Conditioner 1.5HP
+Comptoir : non rapproché -> Samsun Galaxy A15 128Go
+Comptoir : non rapproché -> Samsung A25 128Go
+Comptoir : non rapproché -> Infinix Hot 40i
+Comptoir : non rapproché -> Itel A70
+Comptoir : non rapproché -> iPhone 13 128Go
+Comptoir : non rapproché -> HP 250 G9 i5
+Comptoir : non rapproché -> Dell Inspiron 15 i5
+Comptoir : non rapproché -> Clé USB SanDisk 64Go
+Comptoir : non rapproché -> DD externe Seagate 1To
+Comptoir : non rapproché -> Souris Logitech M185
+Comptoir : non rapproché -> Frigo Hisense 205L
+Comptoir : non rapproché -> Congélateur Nasco 200L
+Comptoir : non rapproché -> TV Samsung 43"
+Comptoir : non rapproché -> TV Hisense 32"
+Comptoir : non rapproché -> Clim LG 1CV
+Comptoir : non rapproché -> Ventilo Binatone 16"
+Comptoir : non rapproché -> Mixeur Moulinex
+Comptoir : non rapproché -> Fer Philips
+Comptoir : non rapproché -> Micro-ondes Samsung 23L
+Comptoir : non rapproché -> Bouilloire 1,7L
+Comparatif : 2 produits comparés
+Historique : 0 prix invalides ignorés
